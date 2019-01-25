@@ -1,0 +1,41 @@
+c:\users\gadgood\documents\visual studio 2010\Projects\UncleNabeelsBakery\UncleNabeelsBakery\bin\Debug\UncleNabeelsBakery.exe
+c:\users\gadgood\documents\visual studio 2010\Projects\UncleNabeelsBakery\UncleNabeelsBakery\bin\Debug\UncleNabeelsBakery.pdb
+c:\users\gadgood\documents\visual studio 2010\Projects\UncleNabeelsBakery\UncleNabeelsBakery\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\gadgood\documents\visual studio 2010\Projects\UncleNabeelsBakery\UncleNabeelsBakery\obj\x86\Debug\UncleNabeelsBakery.Exercise.resources
+c:\users\gadgood\documents\visual studio 2010\Projects\UncleNabeelsBakery\UncleNabeelsBakery\obj\x86\Debug\UncleNabeelsBakery.DragDrop.resources
+c:\users\gadgood\documents\visual studio 2010\Projects\UncleNabeelsBakery\UncleNabeelsBakery\obj\x86\Debug\UncleNabeelsBakery.Drawing.resources
+c:\users\gadgood\documents\visual studio 2010\Projects\UncleNabeelsBakery\UncleNabeelsBakery\obj\x86\Debug\UncleNabeelsBakery.Operation1.resources
+c:\users\gadgood\documents\visual studio 2010\Projects\UncleNabeelsBakery\UncleNabeelsBakery\obj\x86\Debug\UncleNabeelsBakery.welcome.resources
+c:\users\gadgood\documents\visual studio 2010\Projects\UncleNabeelsBakery\UncleNabeelsBakery\obj\x86\Debug\UncleNabeelsBakery.Main.resources
+c:\users\gadgood\documents\visual studio 2010\Projects\UncleNabeelsBakery\UncleNabeelsBakery\obj\x86\Debug\UncleNabeelsBakery.lessons.resources
+c:\users\gadgood\documents\visual studio 2010\Projects\UncleNabeelsBakery\UncleNabeelsBakery\obj\x86\Debug\UncleNabeelsBakery.Fractions.resources
+c:\users\gadgood\documents\visual studio 2010\Projects\UncleNabeelsBakery\UncleNabeelsBakery\obj\x86\Debug\UncleNabeelsBakery.Properties.Resources.resources
+c:\users\gadgood\documents\visual studio 2010\Projects\UncleNabeelsBakery\UncleNabeelsBakery\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\gadgood\documents\visual studio 2010\Projects\UncleNabeelsBakery\UncleNabeelsBakery\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\gadgood\documents\visual studio 2010\Projects\UncleNabeelsBakery\UncleNabeelsBakery\obj\x86\Debug\UncleNabeelsBakery.exe
+c:\users\gadgood\documents\visual studio 2010\Projects\UncleNabeelsBakery\UncleNabeelsBakery\obj\x86\Debug\UncleNabeelsBakery.pdb
+C:\Users\Gadgood\documents\visual studio 2010\Projects\UncleNabeelsBakery\UncleNabeelsBakery\obj\x86\Debug\UncleNabeelsBakery.Game.resources
+C:\Users\Gadgood\documents\visual studio 2010\Projects\UncleNabeelsBakery\UncleNabeelsBakery\obj\x86\Debug\UncleNabeelsBakery.Learn.resources
+C:\Users\HP\Desktop\UncleNabeelsBakery\UncleNabeelsBakery\obj\x86\Debug\UncleNabeelsBakery.exe
+C:\Users\HP\Desktop\UncleNabeelsBakery\UncleNabeelsBakery\obj\x86\Debug\UncleNabeelsBakery.pdb
+C:\Users\HP\Desktop\UncleNabeelsBakery\UncleNabeelsBakery\bin\Debug\UncleNabeelsBakery.exe
+C:\Users\HP\Desktop\UncleNabeelsBakery\UncleNabeelsBakery\bin\Debug\UncleNabeelsBakery.pdb
+C:\Users\HP\Desktop\UncleNabeelsBakery\UncleNabeelsBakery\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\HP\Desktop\UncleNabeelsBakery\UncleNabeelsBakery\obj\x86\Debug\UncleNabeelsBakery.DragDrop.resources
+C:\Users\HP\Desktop\UncleNabeelsBakery\UncleNabeelsBakery\obj\x86\Debug\UncleNabeelsBakery.Drawing.resources
+C:\Users\HP\Desktop\UncleNabeelsBakery\UncleNabeelsBakery\obj\x86\Debug\UncleNabeelsBakery.welcome.resources
+C:\Users\HP\Desktop\UncleNabeelsBakery\UncleNabeelsBakery\obj\x86\Debug\UncleNabeelsBakery.Main.resources
+C:\Users\HP\Desktop\UncleNabeelsBakery\UncleNabeelsBakery\obj\x86\Debug\UncleNabeelsBakery.Properties.Resources.resources
+C:\Users\HP\Desktop\UncleNabeelsBakery\UncleNabeelsBakery\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\HP\Desktop\UncleNabeelsBakery\UncleNabeelsBakery\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\HP\Desktop\Backup Uncle Nabeel's Bakery\UncleNabeelsBakery\UncleNabeelsBakery\obj\x86\Debug\UncleNabeelsBakery.exe
+C:\Users\HP\Desktop\Backup Uncle Nabeel's Bakery\UncleNabeelsBakery\UncleNabeelsBakery\obj\x86\Debug\UncleNabeelsBakery.pdb
+C:\Users\HP\Desktop\Backup Uncle Nabeel's Bakery\UncleNabeelsBakery\UncleNabeelsBakery\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\HP\Desktop\Backup Uncle Nabeel's Bakery\UncleNabeelsBakery\UncleNabeelsBakery\obj\x86\Debug\UncleNabeelsBakery.DragDrop.resources
+C:\Users\HP\Desktop\Backup Uncle Nabeel's Bakery\UncleNabeelsBakery\UncleNabeelsBakery\obj\x86\Debug\UncleNabeelsBakery.Drawing.resources
+C:\Users\HP\Desktop\Backup Uncle Nabeel's Bakery\UncleNabeelsBakery\UncleNabeelsBakery\obj\x86\Debug\UncleNabeelsBakery.welcome.resources
+C:\Users\HP\Desktop\Backup Uncle Nabeel's Bakery\UncleNabeelsBakery\UncleNabeelsBakery\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\HP\Desktop\Backup Uncle Nabeel's Bakery\UncleNabeelsBakery\UncleNabeelsBakery\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\HP\Desktop\Backup Uncle Nabeel's Bakery\UncleNabeelsBakery\UncleNabeelsBakery\obj\x86\Debug\UncleNabeelsBakery.Properties.Resources.resources
+C:\Users\HP\Desktop\Backup Uncle Nabeel's Bakery\UncleNabeelsBakery\UncleNabeelsBakery\bin\Debug\UncleNabeelsBakery.exe
+C:\Users\HP\Desktop\Backup Uncle Nabeel's Bakery\UncleNabeelsBakery\UncleNabeelsBakery\bin\Debug\UncleNabeelsBakery.pdb
